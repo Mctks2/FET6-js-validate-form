@@ -2,6 +2,8 @@
 
 Nesse projeto implementamos validações nos campos do formulário de cadastro do Monibank, incluindo mensagens customizadas para cada tipo de erro. Além disso, desenvolvemos uma página de reconhecimento facial, permitindo que o usuário capture uma imagem com a câmera usando JavaScript.
 
+Obs.: Caso queira acessar o formulário utilize abrir-conta-form.html com Live Server (Extensão do VSCode)
+
 ## 🛠️ Tecnologias utilizadas
 - HTML
 - CSS
